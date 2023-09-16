@@ -21,7 +21,7 @@
 
     //now the conditionals
 
-        if(email === 'loveumusafir' && pass === 'musafir+munni' ){
+        if(email === 'abdullah@gmail.com' && pass === '12345' ){
             window.location.href = 'homepage.html'
         }
 
